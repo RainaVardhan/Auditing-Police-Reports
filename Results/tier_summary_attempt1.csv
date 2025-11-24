@@ -1,0 +1,5 @@
+Tier,Polarity,Subjectivity,T1_Quotes,T1_TimeMention,T1_PlaceWordHits,T1_ActionPhrases,T2_SkepticalQual,T2_Demeanor,T2_Character,T2_NegativeBehavior,T2_IntoxFocus,T2_TimeGap,T2_SelfBlame,T2_Relationship,T3_Euphemisms,T3_Minimizers,T3_VagueAlcohol,T3_Threat,Legal_Force,Legal_Consent,Legal_Incapacitation,Legal_NonConsExplicit
+Tier 1 (Neutral),0.063,0.405,1.0,1.0,2.5,0.167,0.333,0.0,0.0,0.0,0.167,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.333,1.5,0.0,1.333
+Tier 1 (Neutral/Best-Practice),0.082,0.44,1.0,1.0,1.409,0.023,0.068,0.0,0.114,0.0,0.0,0.0,0.0,0.0,0.955,0.0,0.0,0.023,0.273,1.432,0.0,1.114
+Tier 2 (Subjective/Biasing),0.024,0.422,1.0,1.0,1.16,0.26,0.4,0.0,0.06,0.0,0.0,0.0,0.0,0.02,1.0,0.0,0.0,0.0,0.22,1.42,0.0,1.22
+Tier 3 (Undermining MPC Elements),0.045,0.417,1.0,1.0,0.94,0.02,0.58,0.0,0.12,0.0,0.0,0.0,0.0,0.04,0.94,0.0,0.0,0.0,0.24,1.44,0.0,1.26
